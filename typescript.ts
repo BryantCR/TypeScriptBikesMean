@@ -1,5 +1,5 @@
 
-class Bike{
+export class Bike{
 
     price:number;
     max_speed:string;
